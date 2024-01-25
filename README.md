@@ -1,2 +1,2 @@
-# Alura---L-gica-programaci-n
+# Alura---Logica-programaci-n
 Prácticas de Javascript, css y html.
